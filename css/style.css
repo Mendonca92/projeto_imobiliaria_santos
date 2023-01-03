@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* === Estilos Globais === */
+.secao {
+    text-align: center;
+    padding: 30px 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+    text-align: justify;
+    margin: 10px auto;
+    width: 980px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.texto-azul {
+    color: #1d80c1;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.subtitulo-branco{
+    color: #ffffff;
+}
+
+.img-corpo {
+    width: 450px;
+}
+
+.secao-contato, .secao-servicos {
+    background-color: #1d80c1;
+}
+
+/* === 1ª seção === */
+.secao-cabecalho {
+    background-color: #afddfb;
+}
+
+.secao-cabecalho img {
+    width: 150px;
+}
+
+.secao-cabecalho p {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.secao-cabecalho a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid 2px #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* === 2ª seção === */
+.secao-banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/* === 3ª seção === */
+.secao-sobre h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-sobre h2 {
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+/* === 4ª seção === */
+.secao-servicos p {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+    color: #ffffff;
+}
+
+.secao-servicos ul{
+    margin: 40px auto;
+    width: 135px;
+}
+
+.secao-servicos li {
+    font-size: 22px;
+    line-height: 42px;
+    text-align: left;
+    color: #ffffff
+}
+
+/* === 6ª seção === */
+.secao-contato p {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    margin: 30px auto;
+}
+
+.secao-contato ul {
+    margin: 40px auto;
+    width: 210px;
+}
+
+.secao-contato ul li {
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.secao-contato li a {
+    background-color: #ffffff;
+    color:#1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
